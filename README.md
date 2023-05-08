@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 #### 💬 language
 <p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=white"/>
@@ -35,7 +33,13 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-4479A1?style=plastic&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-02569B?style=plastic&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=plastic&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
+  
+
 </p>
 
 
