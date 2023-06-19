@@ -1,5 +1,7 @@
 ### Hi there, I'm Jaehyeonee 👋
 - 🌱 I’m currently learning AI
+- 👩🏻‍💻🎯 Undergraduator of  *```Sookmyung Women's University```* *```(Major In. IT Enginnering)```*
+
 
 <!--
 **Jaehyeonee/jaehyeonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
