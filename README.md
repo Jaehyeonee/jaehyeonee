@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaehyeonee 👋
 - 🌱 I’m currently learning AI
-- 👩🏻‍💻🎯 Undergraduator of  *```Sookmyung Women's University```* *```(Major In. IT Enginnering)```*
+- 👩🏻‍💻🎯 Undergraduator of  *```Sookmyung Women's University```* *```(Major In. IT Engineering)```*
 
 
 <!--
