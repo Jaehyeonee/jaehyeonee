@@ -1,6 +1,4 @@
 ### Hi there, I'm Jaehyeonee 👋
-- 🌱 I’m currently learning AI
-- 👩🏻‍💻🎯 Undergraduator of  *```Sookmyung Women's University```* *```(Major In. IT Engineering)```*
 
 
 <!--
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeonee&show_icons=true&theme=radical)--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeonee&show_icons=true&theme=radical&count_private=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeonee&show_icons=true&theme=radical&count_private=true)--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 
